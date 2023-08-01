@@ -1,1 +1,3 @@
-<p align="center"> sup </p>
+<p align="center" style="font-size: large;">
+    sup
+</p>
