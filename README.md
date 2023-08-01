@@ -1,10 +1,1 @@
-## Skills
-Python
-
-C#
-
-C++
-
-Lua
-
-x86 assembly
+<p align="center"> sup </p>
